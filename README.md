@@ -1,2 +1,78 @@
-# gurdev-portfolio
-Me
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gurdev Singh | Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #f1f5f9;
+    }
+    header {
+      text-align: center;
+      padding: 40px 20px;
+      background: #1e293b;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin-top: 10px;
+      color: #94a3b8;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    }
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .socials a {
+      display: block;
+      margin: 8px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1e293b;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body><header>
+  <h1>Gurdev Singh</h1>
+  <p>Music Producer | Video Director | Editor | Script Writer | Lyrics Writer</p>
+</header><section>
+  <div class="card">
+    <h2>About Me</h2>
+    <p>Hello! I'm Gurdev Singh, a passionate creative professional working as a music producer, video director, editor, script writer, and lyrics writer. I love creating engaging content and building my presence in the digital world.</p>
+  </div>  <div class="card">
+    <h2>YouTube Channel</h2>
+    <p>Check out my YouTube channel:</p>
+    <a href="https://www.youtube.com/@TheGurdevSingh" target="_blank">Visit My Channel</a>
+  </div>  <div class="card socials">
+    <h2>Social Media</h2>
+    <a href="https://www.instagram.com/gurdevsingh.official?igsh=MTN4Y290d3dsb2RvMA==" target="_blank">Instagram</a>
+  </div>  <div class="card">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:socialsinghs907@gmail.com">socialsinghs907@gmail.com</a></p>
+  </div>
+</section><footer>
+  <p>© 2026 Gurdev Singh | All Rights Reserved</p>
+</footer></body>
+</html>
